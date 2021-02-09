@@ -7,7 +7,7 @@
     "database": "Database"
     }, 
   {
-    "host": "203.234.localhost.115",
+    "host": "localhost",
     "port": 3306,
     "user": "User",
     "password": "Password",
