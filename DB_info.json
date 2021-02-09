@@ -1,16 +1,16 @@
 [
   {
-    "host": "203.234.62.115",
+    "host": "localhost",
     "port": 3306,
-    "user": "dsem_iot",
-    "password": "dsem_iot",
-    "database": "DeviceMeasurement"
+    "user": "User",
+    "password": "Password",
+    "database": "Database"
     }, 
   {
-    "host": "203.234.62.115",
+    "host": "203.234.localhost.115",
     "port": 3306,
-    "user": "dsem_iot",
-    "password": "dsem_iot",
-    "database": "DeviceRegistry"
+    "user": "User",
+    "password": "Password",
+    "database": "Database"
   }
 ]
